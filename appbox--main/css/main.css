@@ -1,0 +1,124 @@
+body {
+    margin:0px;
+    padding:0;
+    font-family:helvetica;
+    background-color: #1A1A1A;
+    color: #FFFFFF;
+    overflow-x: hidden;
+    user-select: none;
+   -webkit-user-select: none;
+   -khtml-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+}
+a{
+    text-decoration:none;
+    color:#1C82E7;
+}
+.tweaked{
+    margin:10px;
+    padding:20px;
+    width:80%;
+    border-radius:20px;
+    background-color: #242628;
+    height:60px;
+}
+.tweaked img{
+    width:60px;
+    height:60px;
+    float:left;
+    border-radius:23.3%;
+    margin-left:0px;
+}
+.tweaked h1{
+    font-size:16px;
+    margin-left:70px;
+    text-align:justify;
+    margin-bottom:0px;
+}
+.tweaked p{
+    font-size:13px;
+    margin-left:-25px;
+    opacity:0.6;
+    padding:5px;
+    border-radius:5px;
+    width:100px;
+    text-align:justify;
+    margin-top:2px;
+}
+.tweaked a{
+    display:block;
+    width:55px;
+    padding:5px;
+    border-radius:50px;
+    float:right;
+    color: #007AFF;
+    margin-right:0px;
+    border:5px solid #007AFF;
+}
+h66 {
+font-size: 40px;
+color: #1A1A1A;
+}
+.ios {
+    margin:10px;
+    padding:20px;
+    width:80%;
+    border-radius:20px;
+    background-color: #242628;
+    height:25px;
+    font-size: 25px;
+}
+.apps{
+    margin:10px;
+    padding:20px;
+    width:80%;
+    border-radius:20px;
+    background-color: #242628;
+    height:60px;
+}
+.apps img{
+    width:60px;
+    height:60px;
+    float:left;
+    border-radius:23.3%;
+    margin-left:0px;
+}
+.apps h1{
+    font-size:16px;
+    margin-left:70px;
+    text-align:justify;
+    margin-bottom:0px;
+}
+.apps p{
+    font-size:13px;
+    margin-left:-25px;
+    opacity:0.6;
+    padding:5px;
+    border-radius:5px;
+    width:100px;
+    text-align:justify;
+    margin-top:2px;
+}
+.apps a{
+    display:block;
+    width:55px;
+    padding:5px;
+    border-radius:50px;
+    float: right;
+    color: #007AFF;
+    margin-right:0px;
+    font-family: Framework7 Icons;
+    font-size: 40px;
+}
+.apps a:hover{
+    display:block;
+    width:55px;
+    padding:5px;
+    border-radius:50px;
+    float: right;
+    color: #FFFFFF;
+    margin-right:0px;
+    font-family: Framework7 Icons;
+    font-size: 40px;
+}

@@ -4,7 +4,7 @@
   font-weight: 400;
   src: url('https://techdech.ga/fonts/Framework7Icons-Regular.eot');
   src: local('Framework7 Icons'), local('Framework7Icons-Regular'),
-    url('https://techdech.ga/fonts/Framework7Icons-Regular.woff2') format('woff2'), url('fonts/Framework7Icons-Regular.woff')
+    url('https://techdech.ga/fonts/Framework7Icons-Regular.woff2') format('woff2'), url('https://techdech.ga/fonts/Framework7Icons-Regular.woff')
       format('woff'), url('https://techdech.ga/fonts/Framework7Icons-Regular.ttf') format('truetype');
 }
 
